@@ -1,0 +1,92 @@
+* { margin:0; padding:0 }
+div { margin:0; padding:0 }
+html { height:100.1%; line-height:.9em}
+BODY {
+	font-size: 13px;
+	background: #271900 url(images/bg.png) repeat-x;
+	font-family: Tahoma, Arial, Geneva;
+	color: #516c82;
+	margin:0px auto 0 auto;
+	text-align:left;
+	line-height:1.1em
+}
+
+a { color:#ef882c; text-decoration:underline}
+a:hover  { color:#fff} 
+
+#wrapper { width:1235px; margin:0 auto; overflow:hidden}
+
+#container1 {width:1235px; height:208px}
+
+#logo {background:url(images/logo2.png) no-repeat; width:719px; height:208px; float:left}
+
+#info-box {background:url(images/info-box.png) no-repeat; width:516px; height:208px; float:right}
+
+#nav-bar {background:url(images/nav-bar.png) no-repeat; width:1235px; height:103px}
+
+#container2 {width:1235px; height:349px}
+
+#main-photo{background:url(images/main-photo.png) no-repeat; width:755px; height:349px; float:left}
+
+#events-box {background:url(images/events-box.png) no-repeat; width:480px; height:349px; float:right}
+
+#container3 {width:1235px; height:433px}
+
+#content-box{background:url(images/content-box.png) no-repeat; width:776px; height:433px; float:left}
+
+.home-content {color:#e0dfde; padding-top:8px; padding-right:4px; padding-left:170px; width:590px; padding-bottom:6px; overflow:auto; height:386px; margin-top:16px}
+
+#buttons {background:url(images/buttons.png) no-repeat; width:459px; height:433px; float:right}
+
+#centered-buttons {background:url(images/centered-buttons.png) no-repeat; width:260px; height:373px}
+
+#calendar-bt {width:260px; height:120px}
+#messages-bt {width:260px; height:131px}
+#connections-bt {width:260px; height:122px}
+
+#footer {background:url(images/footer.png) no-repeat; width:1235px; height:42px}
+
+.footer-text {color:#ccc; font-size:.85em; padding-left:158px}
+
+.nav-area {color:#fff; font-size:18px; font-weight:bold; padding-top:42px; padding-left:164px}
+
+a.nav-link:link{color:#f8f3e1; text-decoration:none; font-size:18px; font-weight:bold; line-height:24px}
+a.nav-link:visited{color:#f8f3e1; text-decoration:none; font-size:18x; font-weight:bold; line-height:24px}
+a.nav-link:hover{color:#4b2a16; text-decoration:none; font-size:18px; font-weight:bold; line-height:24px}
+
+.top-info {color:#d7d6cf; font-size:12px; font-weight:bold; padding-top:62px; padding-left:70px; width:300px}
+
+#events-info {width:220px; padding-top:62px; padding-right:40px; padding-left:55px}
+
+.events-date {color:#e48023}
+
+.events-title {color:#e2952e}
+
+.events-details {color:#ccc}
+
+.headline {color:#f2f2f1; font-size:1.4em; font-weight:bold}
+
+a.under:link{color:#d9aa1a; text-decoration:underline}
+a.under:visited{color:#d9aa1a; text-decoration:underline}
+a.under:hover{color:#fff; text-decoration:underline}
+
+a.alter-link1:link{color:#f8ffd9; text-decoration:underline}
+a.alter-link1:visited{color:#f8ffd9; text-decoration:underline}
+a.alter-link1:hover{color:#fff; text-decoration:underline}
+
+.white-header {color:#fff; font-weight:bold; text-decoration:underline; font-size: 23px;}
+
+a.alter-link2:link{color:#456985; text-decoration:underline}
+a.alter-link2:visited{color:#456985; text-decoration:underline}
+a.alter-link2:hover{color:#5c89ad; text-decoration:underline}
+
+#int-top-slice {background:url(images/int-top-slice.png) no-repeat; width:979px; height:25px}
+#int-stretch-slice {background:url(images/int-stretch-slice.png) repeat-y; width:979px; height:100%}
+#int-bottom-slice {background:url(images/int-bottom-slice.png) no-repeat; width:979px; height:47px}
+
+.int-content {color:#72726c; padding-top:4px; padding-bottom:6px; padding-left:45px; width:900px}
+
+.category2 {background:#3b5863; padding:10px; width:942px; border:#3e7eb1 double; height:100%; color:#555}
+.category3 {background:#3b5863; padding:10px; width:942px; border:#555 double; height:103px; color:#f2f2f2}
+.category-left {background:#3b5863; padding:10px; width:420px; border:#cccbc9 1px solid; height:100%; color:#f2f2f2; float:left}
+.category-right {background:#3b5863; padding:10px; width:420px; border:#cccbc9 1px solid; height:100%; color:#f2f2f2; float:right}
